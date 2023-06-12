@@ -1,0 +1,9 @@
+/mnt/disk02/mystuff/Projects/Rust-studies/raylib/first_project/target/debug/build/raylib-sys-3330847aafc1cc0a/out/lib64/libraylib.a
+/mnt/disk02/mystuff/Projects/Rust-studies/raylib/first_project/target/debug/build/raylib-sys-3330847aafc1cc0a/out/include/raylib.h
+/mnt/disk02/mystuff/Projects/Rust-studies/raylib/first_project/target/debug/build/raylib-sys-3330847aafc1cc0a/out/include/rlgl.h
+/mnt/disk02/mystuff/Projects/Rust-studies/raylib/first_project/target/debug/build/raylib-sys-3330847aafc1cc0a/out/include/physac.h
+/mnt/disk02/mystuff/Projects/Rust-studies/raylib/first_project/target/debug/build/raylib-sys-3330847aafc1cc0a/out/include/raymath.h
+/mnt/disk02/mystuff/Projects/Rust-studies/raylib/first_project/target/debug/build/raylib-sys-3330847aafc1cc0a/out/include/raudio.h
+/mnt/disk02/mystuff/Projects/Rust-studies/raylib/first_project/target/debug/build/raylib-sys-3330847aafc1cc0a/out/lib64/pkgconfig/raylib.pc
+/mnt/disk02/mystuff/Projects/Rust-studies/raylib/first_project/target/debug/build/raylib-sys-3330847aafc1cc0a/out/lib64/cmake/raylib/raylib-config-version.cmake
+/mnt/disk02/mystuff/Projects/Rust-studies/raylib/first_project/target/debug/build/raylib-sys-3330847aafc1cc0a/out/lib64/cmake/raylib/raylib-config.cmake
